@@ -6,7 +6,7 @@ export PAI_REST="http://10.100.197.19/rest-server"
 export PAI_USER="bowen.zhang"
 export PAI_BASE="http://10.100.197.19"
 export PAI_LOG_TIMEOUT="10"
-export PAI_TOKEN="PASTE_YOUR_FULL_TOKEN_HERE"
+export PAI_TOKEN=""
 
 export PAI_REST="${PAI_REST%/}"
 export PAI_BASE="${PAI_BASE%/}"
